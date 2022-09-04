@@ -1,3 +1,7 @@
+## Benefit:
+
+It can rename multiple GameObjects in Hierarchy window at once, with baseName + index suffix.
+
 ## Usage:
 
 1. Open the Hierarchy window.
